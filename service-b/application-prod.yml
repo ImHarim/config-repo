@@ -2,7 +2,7 @@
 service:
   name: "Service B Production" 
   student_id: "202137566"   
-  student_name: "장하림" 
+  student_name: "hairm jang" 
 logging:
   level:
     root: WARN
