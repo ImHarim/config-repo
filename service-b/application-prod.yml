@@ -1,8 +1,8 @@
 # In config-repo/service-b/application-prod.yml
 service:
-  name: "Service B Production Environment" # 서비스 설명 (선택 사항)
-  student_id: "여기에_본인_학번을_입력하세요"   # 미션 요구사항
-  student_name: "여기에_본인_이름을_입력하세요" # 미션 요구사항
+  name: "Service B Production" 
+  student_id: "202137566"   
+  student_name: "장하림" 
 logging:
   level:
     root: WARN
